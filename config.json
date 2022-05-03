@@ -1,0 +1,51 @@
+{
+    "title": "",
+    "media": [
+        {
+            "file": "callingnow.mp3",
+            "type": "audio",
+            "feature": true,
+            "title": "Calling Now"
+        },
+        {
+            "file": "decay.mp3",
+            "type": "audio",
+            "title": "Decay"
+        },
+        {
+            "file": "SNAKE.mp3",
+            "type": "audio",
+            "title": "Snake"
+        },
+        {
+            "file": "medival.mp3",
+            "type": "audio",
+            "title": "Medival"
+        },
+        {
+            "file": "timebomb.mp3",
+            "type": "audio",
+            "title": "Time Bomb"
+        }
+    ],
+    "theme": {
+        "titleStyle": "none",
+        "backgroundColor": "#1e1e1e",
+        "primaryColor": "#ffffff",
+        "primaryAltColor": "#838383",
+        "secondaryColor": "#000000",
+        "highlightColor": "#434343",
+        "primaryTextColor": "#ffffff",
+        "primaryAltTextColor": "#838383",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#838383",
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "contentWidth": "400",
+        "coverSize": "1",
+        "nativePlayer": false,
+        "customCSS": ""
+    },
+    "description": ""
+}
